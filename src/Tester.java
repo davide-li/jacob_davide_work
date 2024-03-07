@@ -1,4 +1,6 @@
-import java.util.Timer;
+package src;
+
+import src.CustomTimer;
 
 public class Tester {
     public static void main(String[] args) {
